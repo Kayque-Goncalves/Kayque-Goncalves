@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello there 👋 I am Kayque Gonçalves
 
-<!--
-**Kayque-Goncalves/Kayque-Goncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ *I'm a IOT enthusisat and Front-End Developer. One of the things I love most is learn about new technologies, and how it can change lifes around the world! 🌎*
 
-Here are some ideas to get you started:
+- 🎈 I'm searching for my first professional experience, so if you see something you like here, please give me a feedback 🙏
+- 🌱 I’m currently learning React.js and node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ✨ Tech Stack
+
+*Here are a few things I've picked up along my learning journey.*
+- ❤ JavaScript | CSS | Node.js | React | HTML
+- 🐘 PHP
+- 🐍 Python 
+- 🛢 MySQL | SQL Server
+- 📲 Android with Kotlin | Xamarin
+- ☁ MongoDB | Firebase
+- 🔌 Arduino
+- ☢ Java
+
+# 📫 Contact me
+
+- LinkedIn: Kayque Gonçalves da Silva
+- Instagram: kayque_silv4
+- Email: kayque.gsilva229@gmail.com
