@@ -8,17 +8,17 @@
 # ✨ Tech Stack
 
 *Here are a few things I've picked up along my learning journey.*
-- ❤ JavaScript | CSS | Node.js | React | HTML
+- ❤ Typescript | Node.js | React
 - 🐘 PHP
 - 🐍 Python 
-- 🛢 MySQL | SQL Server
+- 🛢 NoSQL | SQL
 - 📲 Android with Kotlin | Xamarin
 - ☁ MongoDB | Firebase
 - 🔌 Arduino
-- ☢ Java
+- ☢ Java | C#
 
 # 📫 Contact me
 
-- LinkedIn: Kayque Gonçalves da Silva
-- Instagram: kayque_silv4
+- LinkedIn: www.linkedin.com/in/kayque-gon%C3%A7alves-da-silva-7335ab196/
+- Instagram: @kayque_silv4
 - Email: kayque.gsilva229@gmail.com
